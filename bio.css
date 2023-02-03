@@ -1,0 +1,97 @@
+
+body {
+  margin: 40px;
+  padding: auto;
+  
+}
+.about-section {
+  display: flex;
+  align-items: center;
+  
+}
+
+.about-section img {
+  width: 400px;
+  height: 400px;
+  margin-right: 20px;
+  padding: 1%;
+}
+
+
+
+.skill-section {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 120px;
+  padding-top: 7%;
+
+}
+
+.skill-div {
+  width: 22.33%;
+  padding: 50px;
+  
+}
+
+
+@media only screen and (max-width: 600px) {
+  .about-section img {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+  }
+
+  .skill-div {
+    width: 100%;
+  }
+}
+
+.edu {
+  padding: 20px;
+
+}
+
+.projects {
+  padding: 20px;
+
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  margin-top: 20px;
+}
+
+.footer a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: blue;
+}
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 

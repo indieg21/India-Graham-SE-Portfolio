@@ -1,0 +1,38 @@
+
+#back-button {
+
+}
+
+.container {
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container a {
+    cursor: pointer;
+    color: #000;
+    text-decoration: none;
+    padding-right: 56px;
+    padding-bottom: 24px;
+}
+
+.container a span {
+    margin-top: -10px;
+    display: block;
+    text-align: center;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    margin-top: 300px;
+  }
+  
+  .footer a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: blue;
+  }
