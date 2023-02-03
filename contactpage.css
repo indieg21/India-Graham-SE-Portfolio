@@ -55,6 +55,11 @@ form button{
     border-radius: 30px;
 }
 
+form button:hover {
+    background-color: #cda195;
+    color: white;
+  }
+
 .footer {
     display: flex;
     justify-content: center;
