@@ -1,3 +1,9 @@
+body{
+    background:  #cda195;
+    margin: 2%;
+}
+
+
 *{
     margin: 0;
     padding: 0;
@@ -48,6 +54,21 @@ form button{
     margin: 20px auto 0;
     border-radius: 30px;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    margin-top: 20px;
+  }
+  
+  .footer a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: blue;
+  }
+  
 
 
 
